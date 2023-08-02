@@ -1,4 +1,4 @@
-# Run `make` to build, then `make install` to install
+# Run `make` to build, then `make install` to install. Depending on your system, you might need to sudo the install
 
 EXTENSION = pg_osgr
 EXTVERSION = 1.0.0
