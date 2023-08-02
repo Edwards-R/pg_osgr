@@ -1,6 +1,6 @@
 # Run `make` to build, then `make install` to install
 
-EXTENSION = osgr
+EXTENSION = pg_osgr
 EXTVERSION = 1.0.0
 
 # This looks for a target. If it can't find it, it makes it
