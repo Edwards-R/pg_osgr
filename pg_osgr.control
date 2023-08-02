@@ -1,0 +1,3 @@
+comment = 'Ordanance Survey grid reference handling, intended for biological recording'
+default_version = '1.0.0'
+relocatable = true
