@@ -8,7 +8,7 @@ DECLARE
     datum INT;
     
 BEGIN
-    datum = CS_FIND_DATUM(gridref);
+    datum = OSGR_FIND_DATUM(gridref);
 
     CASE datum
         WHEN 29901 THEN
